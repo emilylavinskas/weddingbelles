@@ -174,10 +174,10 @@ span {
 }
     
 
-@media only screen and (min-width: 15em) {
+@media only screen and (min-width: 20em) {
     
     .logo {
-        max-width: 80px;
+        max-width: 105px;
     }
 }
 
