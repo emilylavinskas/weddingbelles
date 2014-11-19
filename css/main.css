@@ -170,11 +170,11 @@ span {
 .social-media-buttons {
     display: inline-block;
     float: right;
-    width: 30px;
+    width: 40px;
 }
     
 
-@media only screen and (min-width: 25em) {
+@media only screen and (min-width: 15em) {
     
     .logo {
         max-width: 80px;
