@@ -55,7 +55,7 @@ img {
     float: left;
     overflow: hidden;
     margin-left: .25em;
-    margin-top: .25em;
+    margin-top: .15em;
 }
 
 .nav {
@@ -107,7 +107,6 @@ img {
 
 .happily-after {
     margin: 0;
-    font-size: 1.5rem;
     color: #000;
     text-align: center;
     padding: 1rem;
@@ -195,6 +194,6 @@ span {
     }
     
     .about-width {
-        max-width: 55%;
+        max-width: 53%;
     }
 }
