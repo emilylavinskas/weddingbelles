@@ -67,6 +67,10 @@ small, .milli {
   line-height: 1.8984;
 }
 
+.social-media-space {
+    margin: .10em;
+}
+
 sub,
 sup {
   font-size: 75%;

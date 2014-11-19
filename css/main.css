@@ -54,7 +54,8 @@ img {
 .logo {
     float: left;
     overflow: hidden;
-    max-width: 25%;
+    margin-left: .25em;
+    margin-top: .25em;
 }
 
 .nav {
@@ -62,6 +63,7 @@ img {
     list-style-type: none;
     padding-right: 1em;
     float: right;
+    color: #000;
 }
 
 .nav a {
@@ -87,28 +89,36 @@ img {
 .nav .nav-current,
 .nav .nav-current:link,
 .nav .nav-current:visited {
-    background-color: #f4dfdf;
+    background-color: none;
 
     color: #fff;
 }
 
 .billboard {
-    background-color: rgba(244,223,223,0.4);
+    margin: 0;
+    padding: 20rem 0 5rem;
+    width: 100%;
+    background-image: url(../photos/billboard-photo.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #fff;
+    background-size: cover;
+}
+
+.happily-after {
+    margin: 0;
+    font-size: 1.5rem;
+    color: #000;
+    text-align: center;
+    padding: 1rem;
+    background-color: rgba(255,255,255,0.5);
+
 }
 
 .header {
     position: absolute;
     width: 100%;
     margin: 0;
-}
-
-.happily-after {
-    background-color: rgba(244,223,223,0.4);
-    font-family: serif;
-    align-content: center;
-    text-align: center;
-    color: #000;
-    overflow: hidden;
 }
 
 /* hr {
@@ -119,14 +129,15 @@ img {
 .titles {
     text-align: center;
 }
-    
-.about-section {
-    max-width: 50%;
+
+.about {
+    max-width: 85%;
     margin: 0 auto;
 }
 
+
 .background-tour {
-    background-color: rgba(255,240,195,0.6);
+    background-color: rgba(188,190,192,0.6);
 }   
 
 .tour-caption {
@@ -135,6 +146,7 @@ img {
 
 .icons {
     max-width: 50%;
+    margin: 0 auto;
 }
 
 .icon-d {
@@ -152,36 +164,37 @@ span {
 }
 
 .footer-all {
-    background-color: #aee0ea;
+    background-color: #c2c2c2;
 }
 
 .social-media-buttons {
     display: inline-block;
     float: right;
-    margin: .25em;
+    width: 30px;
 }
     
 
 @media only screen and (min-width: 25em) {
     
-    .social-media-buttons {
-        max-width: 9%;
-        margin: .25em auto;
+    .logo {
+        max-width: 105px;
     }
 }
 
 @media only screen and (min-width: 38em) {
-   
-    .social-media-buttons {
-        max-width: 6%;
-        margin: .25em auto;
+    
+    .logo {
+        max-width: 150px;
     }
 }
 
 @media only screen and (min-width: 60em) {
     
-    .social-media-buttons {
-        max-width: 3%;
-        margin: .25em auto;
+    .logo {
+        max-width: 250px;
+    }
+    
+    .about-width {
+        max-width: 55%;
     }
 }
