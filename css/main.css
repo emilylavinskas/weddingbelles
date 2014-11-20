@@ -162,6 +162,15 @@ span {
     font-family: serif;
 }
 
+.icons-pricing {
+    max-width: 40%;
+    margin: 0 auto;
+}
+
+.icon-d-pricing {
+    font-family: sans-serif;
+}
+
 .footer-all {
     background-color: #c2c2c2;
 }
@@ -171,7 +180,17 @@ span {
     float: right;
     width: 40px;
 }
-    
+
+.list {
+    text-decoration: none;
+    list-style-type: none;
+    text-align: center;
+    margin: 0 auto;
+    padding-right: 1em;
+    text-transform: uppercase;
+}
+
+
 
 @media only screen and (min-width: 20em) {
     
