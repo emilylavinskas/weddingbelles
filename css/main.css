@@ -89,7 +89,6 @@ img {
 .nav .nav-current,
 .nav .nav-current:link,
 .nav .nav-current:visited {
-    background-color: none;
 
     color: #fff;
 }
