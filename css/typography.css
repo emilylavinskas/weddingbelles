@@ -6,7 +6,11 @@
     font-family: 'Rochester', cursive;
 }
 
-.nav {
+.nav, .list {
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+.list {
     font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 
