@@ -182,6 +182,11 @@ span {
     text-transform: uppercase;
 }
 
+.top {
+    text-decoration: none;
+    font-weight: bold;
+}
+
 @media only screen and (min-width: 15em) {
     
     .logo {
