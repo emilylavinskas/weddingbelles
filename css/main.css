@@ -97,7 +97,7 @@ img {
     margin: 0;
     padding: 20rem 0 5rem;
     width: 100%;
-    background-image: url(../photos/billboard-photo.png);
+    background-image: url(../photos/billboard-photo.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-color: #fff;
@@ -126,7 +126,6 @@ img {
     max-width: 85%;
     margin: 0 auto;
 }
-
 
 .background-tour {
     background-color: rgba(188,190,192,0.6);
@@ -183,7 +182,12 @@ span {
     text-transform: uppercase;
 }
 
-
+@media only screen and (min-width: 15em) {
+    
+    .logo {
+        max-width: 60px;
+    }
+}
 
 @media only screen and (min-width: 20em) {
     
