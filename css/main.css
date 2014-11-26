@@ -185,6 +185,7 @@ span {
 .top {
     text-decoration: none;
     font-weight: bold;
+    color: #fff;
 }
 
 @media only screen and (min-width: 15em) {
