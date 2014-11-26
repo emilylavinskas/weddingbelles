@@ -113,11 +113,6 @@ img {
 
 }
 
-/* hr {
-    margin: 2em 5%;
-    border: .15rem solid #000;
-} */
-
 .titles {
     text-align: center;
 }
@@ -186,6 +181,29 @@ span {
     text-decoration: none;
     font-weight: bold;
     color: #fff;
+}
+
+.buttons {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #000;
+}
+
+button {
+    background-color: #c2c2c2;
+    border-radius: 10px;
+    padding: 1em 0.75em; 
+}
+
+button:hover {
+    background-color: #fff;
+    cursor: pointer;
+    color: #fff;
+}
+
+button:active {
+    background-color: #fff;
+    color: #000;
 }
 
 @media only screen and (min-width: 15em) {

@@ -6,13 +6,21 @@
     font-family: 'Rochester', cursive;
 }
 
+.buttons {
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
 .nav, .list {
     font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 
-.list {
+.list, {
     font-family: 'Yanone Kaffeesatz', sans-serif;
 }
+
+.call-to-action {
+    font-family: 'Rochester', cursive;
+}   
 
 h1, h2, h3, h4, h5, h6,
 p, ul, ol, dl, dd, figure,
