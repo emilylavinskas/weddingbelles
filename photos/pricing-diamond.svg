@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 18.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="108 0 396.6 396.6" enable-background="new 108 0 396.6 396.6" xml:space="preserve">
-<circle fill="#FFFFFF" cx="306.3" cy="198.3" r="198.3"/>
-<polygon fill="#808285" points="306.8,311.6 153,164.9 206,118 407.7,118 460.7,164.9 "/>
-<rect x="150.7" y="162" fill="#FFFFFF" width="313.3" height="5.3"/>
-<polygon fill="#FFFFFF" points="306.8,311.6 226,167.3 241.3,167.3 "/>
-<polyline fill="#FFFFFF" points="371.5,167.3 306,311.6 386.8,167.3 "/>
-<polygon fill="#FFFFFF" points="206,118 223,161.7 238.3,161.7 305.7,118.3 371.3,162 387.7,162 407.7,118 391.7,118 374.3,157.7 
-	315.3,117.7 293.3,117.7 237.7,154 222.3,118 "/>
+	 viewBox="684 0 72 72" enable-background="new 684 0 72 72" xml:space="preserve">
+<circle fill="#FFFFFF" cx="720" cy="36" r="36"/>
+<polygon fill="#00254A" points="720.1,56.6 692.2,29.9 701.8,21.4 738.4,21.4 748,29.9 "/>
+<rect x="691.8" y="29.4" fill="#FFFFFF" width="56.9" height="1"/>
+<polygon fill="#FFFFFF" points="720.1,56.6 705.4,30.3 708.2,30.3 "/>
+<polyline fill="#FFFFFF" points="731.8,30.4 719.9,56.6 734.6,30.4 "/>
+<polygon fill="#FFFFFF" points="701.8,21.4 704.9,29.5 707.7,29.5 719.9,21.5 731.8,29.5 734.8,29.5 738.4,21.4 735.5,21.4 
+	732.3,28.7 721.6,21.4 717.6,21.4 707.5,28.1 704.8,21.4 "/>
 </svg>

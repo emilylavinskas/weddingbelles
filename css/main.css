@@ -63,7 +63,7 @@ img {
     list-style-type: none;
     padding-right: 1em;
     float: right;
-    color: #000;
+    color: #00254a;
 }
 
 .nav a {
@@ -115,6 +115,7 @@ img {
 
 .titles {
     text-align: center;
+    color: #00254a;
 }
 
 .about {
@@ -123,7 +124,7 @@ img {
 }
 
 .background-tour {
-    background-color: rgba(188,190,192,0.6);
+    background-color: #e2ddcb;
 }   
 
 .tour-caption {
@@ -158,8 +159,14 @@ span {
     font-family: sans-serif;
 }
 
+.faq {
+    max-width: 650px;
+    margin: 0 auto;
+    text-align: center;
+}
+
 .footer-all {
-    background-color: #c2c2c2;
+    background-color: #3d5567;
 }
 
 .social-media-buttons {
@@ -204,6 +211,30 @@ button:hover {
 button:active {
     background-color: #fff;
     color: #000;
+}
+
+.sign-up-button {
+    float: right;
+}
+
+form {
+    max-width: 45em;
+    margin: 0 auto;
+}
+
+input[type="text"] {
+    padding: .75em;
+    width: 100%;
+}
+
+input[type="email"] {
+    padding: .75em;
+    width: 100%;
+}
+
+input[type="number"] {
+    padding: .75em;
+    width: 100%;
 }
 
 @media only screen and (min-width: 15em) {

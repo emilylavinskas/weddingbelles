@@ -18,9 +18,18 @@
     font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 
+.faq-type {
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    text-transform: uppercase;
+}
+
 .call-to-action {
     font-family: 'Rochester', cursive;
-}   
+}  
+
+.copyright {
+    color: #fff;
+}
 
 h1, h2, h3, h4, h5, h6,
 p, ul, ol, dl, dd, figure,
@@ -85,6 +94,10 @@ small, .milli {
 
 .social-media-space {
     margin: .10em;
+}
+
+.button-margin {
+    margin-right: 2em;
 }
 
 sub,
