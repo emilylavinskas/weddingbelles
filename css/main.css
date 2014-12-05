@@ -164,6 +164,10 @@ span {
     text-align: center;
 }
 
+.faq-q {
+    color: #a65d43;
+}
+
 .footer-all {
     background-color: #3d5567;
 }
@@ -192,24 +196,22 @@ span {
 .buttons {
     text-decoration: none;
     text-transform: uppercase;
-    color: #000;
 }
 
 button {
-    background-color: #c2c2c2;
+    background-color: #c8aca1;
     border-radius: 10px;
-    padding: 1em 0.75em; 
+    padding: 1em 0.75em;
+    color: #fff;
 }
 
 button:hover {
-    background-color: #fff;
+    background-color: #00254a;
     cursor: pointer;
-    color: #fff;
 }
 
 button:active {
     background-color: #fff;
-    color: #000;
 }
 
 .sign-up-button {
@@ -234,6 +236,17 @@ input[type="email"] {
 input[type="number"] {
     padding: .75em;
     width: 100%;
+}
+
+.thank-you-p {
+    margin: auto 0;
+    text-align: center;
+}
+
+.return-home {
+    float: center;
+    text-align: center;
+    margin: auto 0;
 }
 
 @media only screen and (min-width: 15em) {

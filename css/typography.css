@@ -14,7 +14,7 @@
     font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 
-.list {
+.list, .thanks-p-type {
     font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 
@@ -26,6 +26,10 @@
 .call-to-action {
     font-family: 'Rochester', cursive;
 }  
+
+.thank-you {
+    font-family: 'Rochester', cursive;
+}
 
 .copyright {
     color: #fff;
