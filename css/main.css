@@ -245,9 +245,12 @@ input[type="number"] {
 }
 
 .return-home {
-    float: center;
     text-align: center;
     margin: auto 0;
+}
+
+.return-home-button {
+    text-align: center;
 }
 
 @media only screen and (min-width: 15em) {
